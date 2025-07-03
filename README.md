@@ -1,0 +1,2 @@
+bu kodda hazelcast haritasında 10.000 kez döndürme ve bir kişi nesnesi koyan bir java programı olusturdum.burada demo denilen kısımda gönderici ve alıcı işlemlerini yaptım en son hazelcast 2 dosyasında sonuclar verdim 
+sonra 10.000 de her nesne için 5sn yede bir gönderim yapıyor buda 50000 saniyeden yaklaşık 13 14 saat zaman alıyor onun için fazla deneme yerine 100 veri (yaklaşık 8-9 dkda) işlem hallolur.
